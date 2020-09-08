@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Juliane Dannberg"
+title: "Arushi Saxena"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,18 +11,21 @@ header:
   overlay_image: banner_about.jpg
   actions:
   caption: "Photo credit: Colorado State University / Joe A. Mendoza"
-excerpt: "Assistant Professor<br/> University of Florida"
+excerpt: "Post-doc researcher br/> University of Florida"
 ---
 
 About me
 ======
 
-I am an Assistant Professor in the Department of Geological Sciences at the University of Florida in Gainesville.
-I am a geodynamicist, and I develop mathematical and computational models of the Earth's interior that can help us understand how the Earth's surface has evolved. In my research, I am particularly interested in the processes that cause rocks in the Earth's deep interior to melt, the migration of the generated magma towards the Earth's surface, and how these processes are connected to the formation of oceanic islands and other forms of volcanism.
+I am currently a post-doctoral scholar at the Geological Sciences, University of Florida under  <a href="https://jdannberg.github.io/">Dr. Juliane Dannberg </a>. 
+My research focuses on setting up present-day global mantle numerical models based on physical parameters
+inferred from seismic tomography, faults database, and plate motion.
+I am using <a href="https://geodynamics.org/cig/software/aspect/"> ASPECT </a> to setup and run all my
+models.
 
-Software
+<!-- Software
 ------
 I am one of the principal developers and maintainers of the free modeling software [ASPECT](https://aspect.geodynamics.org) (Advanced Solver for
-Problems in Earth's Convection). ASPECT uses modern numerical methods to support research in simulating convection in the Earth's mantle and elsewhere.
+Problems in Earth's Convection). ASPECT uses modern numerical methods to support research in simulating convection in the Earth's mantle and elsewhere. -->
 
 
