@@ -11,7 +11,7 @@ header:
   overlay_image: banner_about.jpg
   actions:
   caption: "Photo credit: Colorado State University / Joe A. Mendoza"
-excerpt: "Post-doc researcher br/> University of Florida"
+excerpt: "Post-doc researcher, University of Florida"
 ---
 
 About me
